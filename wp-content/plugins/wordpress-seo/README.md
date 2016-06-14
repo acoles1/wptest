@@ -1,4 +1,4 @@
-Yoast SEO
+Yoast SEO TEST
 ======================
 
 [![Build Status](https://api.travis-ci.org/Yoast/wordpress-seo.png?branch=master)](https://travis-ci.org/Yoast/wordpress-seo)
